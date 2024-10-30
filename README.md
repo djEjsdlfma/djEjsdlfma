@@ -14,7 +14,7 @@
  💬 얘기나 개선점등을 남겨주세요.<br>
 <img src="https://img.shields.io/badge/Gmail-E4405F?style=flat-square&logo=Gmail&logoColor=white"/></a>
  asdakpol.asd@gmail.com<br>
- <a href="https://www.instagram.com/ryuseongjin96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>@ryuseongjin96
+ <a href="https://www.instagram.com/ryuseongjin96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>@edl2lv
 
 코딩에 대해서 잘 부탁드립니다.
 
